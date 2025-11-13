@@ -8,7 +8,6 @@
 - 🔍 Exploring **Machine Learning, Data Engineering & Applied Analytics**  
 - 🧱 Strong foundation in **Python, Pandas, ML, SQL (PostgreSQL), & Flask**  
 - 🔒 Built production-style systems including dashboards, authentication, and advisor-allocation logic  
-- 🎭 Assistant Fest Coordinator @ Petrichor | Logistics Head @ Curtain Call & Akshar  
 - 📈 Passionate about using data to build real-world, scalable solutions  
 
 ---
