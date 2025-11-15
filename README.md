@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Farya-io&psig=AOvVaw3Z6fY1ZJjz6gtU-UvvjHnH&ust=1763278697592000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLC6zZXT85ADFQAAAAAdAAAAABAL" width="100%" alt="banner"/>
-</p>
+
 
 <h1 align="center">Hi, I'm Parv 👋</h1>
 
