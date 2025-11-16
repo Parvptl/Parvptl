@@ -75,13 +75,11 @@ class ParvPatel:
 
 ## 🏆 Featured Projects
 
-<div align="center">
-
-### 🎯 [NEXUS E-Commerce Analytics Platform](https://github.com/Parvptl/ecommerce-analytics-nexus)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ecommerce-analytics-nexus.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parvptl/ecommerce-analytics-nexus)
+### 🎯 NEXUS E-Commerce Analytics Platform
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ecommerce-analytics-nexus.streamlit.app/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parvptl/nexus-dashboard)
 
 **End-to-end analytics dashboard processing 100K+ transactions**
+
 - 🔧 Built ETL pipeline with automated data cleaning & feature engineering
 - 📊 Statistical inference: t-tests, Chi-square, ANOVA, correlation analysis
 - 🛒 Market basket analysis using Apriori algorithm (Support/Confidence/Lift metrics)
@@ -93,10 +91,11 @@ class ParvPatel:
 
 ---
 
-### 🤖 [Human Activity Recognition (HAR) - PCA + SVM Pipeline](https://github.com/Parvptl/human_activity_recognition)
+### 🤖 Human Activity Recognition (HAR) - PCA + SVM Pipeline
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parvptl/human_activity_recognition)
 
 **Optimized ML pipeline achieving 96.17% accuracy**
+
 - 📉 Reduced features from 561 → 102 (82% reduction) using PCA
 - 🎯 Improved accuracy from 93.6% → 96.17% with SVM + PCA
 - ⚙️ Hyperparameter tuning via GridSearchCV (360+ combinations)
@@ -107,10 +106,11 @@ class ParvPatel:
 
 ---
 
-### 💰 [FinTrack: Investment Management System](https://github.com/Parvptl/fintrack-investment-dashboard)
+### 💰 FinTrack: Investment Management System
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parvptl/fintrack-investment-dashboard)
 
 **Full-stack portfolio & goal tracking application**
+
 - 🗄️ Normalized PostgreSQL schema with stored functions
 - 🔐 Secure REST APIs with bcrypt authentication
 - 📊 Role-based dashboards (Users/Admins/Advisors)
@@ -121,34 +121,29 @@ class ParvPatel:
 
 ---
 
-### 📚 [Machine Learning Labs (Clean Notebooks)](https://github.com/Parvptl/Introduction_to_Machine_Learning)
+### 📚 Machine Learning Labs (Clean Notebooks)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parvptl/Introduction_to_Machine_Learning)
 
 **Professional ML notebooks covering core algorithms**
+
 - Regression, Classification, Clustering
 - Feature Engineering & Model Evaluation
 - Clean code, no outputs, publication-ready
 
 **Tech:** Python • Jupyter • Scikit-Learn • Pandas
 
-</div>
-
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parvptl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvptl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parvptl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvptl&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parvptl&theme=tokyonight)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvptl&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
