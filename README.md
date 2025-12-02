@@ -107,7 +107,7 @@ class ParvPatel:
 ---
 
 ### 💰 FinTrack: Investment Management System
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parvptl/fintrack-investment-dashboard)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parvptl/Fintrack_Db)
 
 **Full-stack portfolio & goal tracking application**
 
