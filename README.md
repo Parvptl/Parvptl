@@ -1,223 +1,117 @@
 <div align="center">
 
-# Hi there, I'm Parv Patel 👋
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Parv%20Patel&fontSize=56&fontColor=e2e8f0&fontAlignY=35&desc=ML%20Systems%20%7C%20Algorithmic%20Engineering%20%7C%20Applied%20Mathematics&descSize=16&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C3FF&center=true&vCenter=true&width=940&lines=Data+Scientist+%7C+ML+Engineer+%7C+Analytics+Expert;Building+AI-Powered+Solutions+for+Real+Impact;Turning+Raw+Data+into+Actionable+Intelligence" alt="Typing SVG" />
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvptl/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parvptl)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parv4careers@gmail.com)
+```
+Building topology-aware generative models, GPU-accelerated ML pipelines,
+and interactive algorithmic platforms.
+I implement the math — not just the API call.
+```
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-parvpatel.me-0f3460?style=flat-square&logo=googlechrome&logoColor=white)](https://parvpatel.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-parvptl-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/parvptl)
+[![Email](https://img.shields.io/badge/Email-parv4careers-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:parv4careers@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-parv__ptl-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/parv_ptl/)
 
 </div>
 
 ---
 
-## 🚀 About Me
+### About
 
-I'm a **Data Science & Analytics enthusiast** from IIT Palakkad, passionate about building **production-grade ML systems** that solve real-world problems. Currently working as an **AI/ML Intern at Easy Algo**, developing quantitative trading models for financial markets.
+B.Tech in Data Science at **IIT Palakkad** (2023–2027). I work at the intersection of machine learning, algorithm design, and systems engineering — with a bias toward building things from mathematical foundations rather than stitching together library calls.
 
-```python
-class ParvPatel:
-    def __init__(self):
-        self.role = "Data Scientist | ML Engineer"
-        self.education = "IIT Palakkad (B.Tech Data Science)"
-        self.current_work = "AI/ML Intern @ Easy Algo"
-        self.location = "Palakkad, Kerala, India"
-        
-    def get_expertise(self):
-        return {
-            "ml_engineering": ["PCA", "SVM", "Ensemble Methods", "Feature Engineering"],
-            "data_analytics": ["EDA", "Statistical Inference", "A/B Testing", "Clustering"],
-            "backend_dev": ["Flask", "PostgreSQL", "REST APIs", "ETL Pipelines"],
-            "tools": ["Scikit-Learn", "Pandas", "NumPy", "Streamlit", "Git"]
-        }
-    
-    def current_focus(self):
-        return [
-            "Quantitative Finance & Trading Algorithms",
-            "Production ML Systems & Model Optimization",
-            "End-to-End Analytics Platforms",
-            "Statistical Modeling & Inference"
-        ]
-```
+**4th National Rank** at Inter IIT Tech Meet 14.0 — built a topology-preserving synthetic data generation pipeline (TopoGAN) and hierarchical semantic retrieval system for Genuity IO's algorithmic optimisation challenge.
+
+Currently an **AI/ML Developer Intern at Easy Algo**, developing quantitative trading models for financial market prediction.
 
 ---
 
-## 🛠️ Tech Stack
+### Flagship — Inter IIT Tech Meet 14.0 `4th Rank`
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+> Algorithmic Optimisation Challenge · Genuity IO
 
-### **Machine Learning & Data Science**
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-4B0082?style=for-the-badge)
-![MLxtend](https://img.shields.io/badge/MLxtend-FF6F00?style=for-the-badge)
+Built an integrated AI systems pipeline — not a GAN tweak.
 
-### **Backend & Databases**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+| Component | What I Built |
+|:--|:--|
+| **TopoGAN** | Persistent homology-regularized GAN for topology-preserving synthetic tabular data generation |
+| **Fusion Pipeline** | GPU-accelerated multi-generator synthesis — VAE + CatBoost + ensemble modeling |
+| **Semantic Retrieval** | Hierarchical tree search via recursive K-Means with adaptive top-k routing |
+| **Validation Engine** | Multi-metric benchmarking: statistical similarity, structural fidelity, downstream utility |
 
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Results:** 25–32% statistical similarity improvement · 17–22% downstream classification utility gain · Outperformed StandardGAN, CTGAN, TVAE
 
 ---
 
-## 🏆 Featured Projects
-
-### 🎯 NEXUS E-Commerce Analytics Platform
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ecommerce-analytics-nexus.streamlit.app/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parvptl/nexus-dashboard)
-
-**End-to-end analytics dashboard processing 100K+ transactions**
-
-- 🔧 Built ETL pipeline with automated data cleaning & feature engineering
-- 📊 Statistical inference: t-tests, Chi-square, ANOVA, correlation analysis
-- 🛒 Market basket analysis using Apriori algorithm (Support/Confidence/Lift metrics)
-- 🎯 Customer segmentation: K-Means, Hierarchical, DBSCAN clustering
-- 🌐 Interactive network graphs with PyVis for product associations
-- 📈 80% reduction in manual analysis time
-
-**Tech:** Python • Streamlit • Scikit-Learn • MLxtend • Plotly • SciPy
-
----
-
-### 🤖 Human Activity Recognition (HAR) - PCA + SVM Pipeline
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parvptl/human_activity_recognition)
-
-**Optimized ML pipeline achieving 96.17% accuracy**
-
-- 📉 Reduced features from 561 → 102 (82% reduction) using PCA
-- 🎯 Improved accuracy from 93.6% → 96.17% with SVM + PCA
-- ⚙️ Hyperparameter tuning via GridSearchCV (360+ combinations)
-- 📦 Production-ready: Exported scaler.pkl, pca.pkl, svm_pca.pkl
-- 📊 Detailed EDA, feature engineering, and model evaluation
-
-**Tech:** Python • Scikit-Learn • PCA • SVM • GridSearchCV • Joblib
-
----
-
-### 💰 FinTrack: Investment Management System
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parvptl/Fintrack_Db)
-
-**Full-stack portfolio & goal tracking application**
-
-- 🗄️ Normalized PostgreSQL schema with stored functions
-- 🔐 Secure REST APIs with bcrypt authentication
-- 📊 Role-based dashboards (Users/Admins/Advisors)
-- 💼 Real-time portfolio tracking & advisor assignment
-- ⚡ ACID-compliant transactions
-
-**Tech:** Flask • PostgreSQL • HTML/CSS • JavaScript • bcrypt
-
----
-
-### 📚 Machine Learning Labs (Clean Notebooks)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parvptl/Introduction_to_Machine_Learning)
-
-**Professional ML notebooks covering core algorithms**
-
-- Regression, Classification, Clustering
-- Feature Engineering & Model Evaluation
-- Clean code, no outputs, publication-ready
-
-**Tech:** Python • Jupyter • Scikit-Learn • Pandas
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parvptl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvptl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvptl&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 💼 Experience
-
-### 🏢 **AI/ML Developer Intern** @ Easy Algo *(Oct 2025 - Present)*
-- Developing **quantitative trading models** for financial market prediction
-- Building ML algorithms to identify **profitable entry/exit points**
-- Optimizing model performance to enhance **portfolio returns & decision accuracy**
-
-### 🎪 **Fest Coordinator** @ Petrichor, IIT Palakkad *(2025 - Present)*
-- Leading **end-to-end planning** for IIT Palakkad's flagship inter-college cultural festival
-- Managing **30+ major events** with inter-department coordination
-- Handling event scheduling, logistics, and resource allocation
-
----
-
-## 🎓 Education
-
-**🏛️ Indian Institute of Technology Palakkad**
-- **B.Tech in Data Science** *(Jul 2023 - Jun 2027)*
-- Core Focus: Machine Learning, Statistical Inference, Database Systems, Operating Systems
-
-**🏫 Eklavya School of Science, Patan**
-- **Science Stream (Computer Science)** *(Mar 2021 - Mar 2023)*
-
----
-
-## 🌟 Skills & Expertise
+### Core Projects
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### **Machine Learning**
-- ✅ Supervised Learning (Regression, Classification)
-- ✅ Unsupervised Learning (Clustering, PCA)
-- ✅ Ensemble Methods (Bagging, Boosting, Random Forest)
-- ✅ Model Evaluation & Hyperparameter Tuning
-- ✅ Feature Engineering & Interpretability
-- ✅ Hidden Markov Models (HMMs)
+#### NEXUS — E-Commerce Analytics Platform
+[![Live](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://ecommerce-analytics-nexus.streamlit.app/)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Parvptl/E_Commerce_Analytics)
+
+End-to-end ML analytics pipeline on 100K+ transactions.
+- Automated ETL + statistical inference (t-tests, Chi², ANOVA)
+- Apriori association mining with Support/Confidence/Lift
+- K-Means, DBSCAN, Hierarchical clustering + PCA
+- PyVis network graphs — 80% reduction in manual analysis
+
+`Python` `Streamlit` `Scikit-Learn` `MLxtend` `Plotly`
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### **Data Analytics**
-- ✅ Exploratory Data Analysis (EDA)
-- ✅ Statistical Inference & Hypothesis Testing
-- ✅ Correlation Analysis & Pattern Recognition
-- ✅ Data Cleaning & Outlier Detection
-- ✅ Dimensionality Reduction
-- ✅ Data Visualization (Matplotlib, Seaborn, Plotly)
+#### Max-Flow Hub — Network Flow Visualizer
+[![Live](https://img.shields.io/badge/Live_Demo-0f3460?style=flat-square&logo=googlechrome&logoColor=white)](https://flow.parvpatel.me/)
+
+Three algorithms implemented **from scratch**:
+- **Ford-Fulkerson** — DFS augmenting paths + residual graph
+- **Edmonds-Karp** — BFS-based, O(VE²) guarantee
+- **Push-Relabel** — Height labeling + excess flow, O(V²E)
+- D3.js state-driven animation engine
+- Interactive Max-Flow Min-Cut theorem demonstration
+
+`JavaScript` `D3.js` `Tailwind CSS`
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### **Backend Development**
-- ✅ Flask REST APIs
-- ✅ PostgreSQL (Schema Design, Query Optimization)
-- ✅ Transactions & Concurrency Control
-- ✅ Authentication & Authorization
-- ✅ ETL Pipeline Development
+#### Human Activity Recognition
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Parvptl/human_activity_recognition)
+
+Optimised ML pipeline — **96.17% accuracy**.
+- PCA: 561 → 102 features (82% reduction)
+- Accuracy: 93.6% → 96.17% via subspace projection
+- GridSearchCV across 360+ hyperparameter configs
+- Production pipeline: `scaler.pkl` → `pca.pkl` → `svm_pca.pkl`
+
+`Python` `Scikit-Learn` `PCA` `SVM` `GridSearchCV`
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### **Computer Science Fundamentals**
-- ✅ Data Structures & Algorithms
-- ✅ Operating Systems (Process Management, Memory)
-- ✅ CPU Scheduling (FCFS, SJF, Priority, RR, MLFQ)
-- ✅ Synchronization (Semaphores, Mutex, Deadlocks)
-- ✅ Dynamic Programming & Complexity Optimization
+#### FinTrack — Investment Management System
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Parvptl/Fintrack_Db)
+
+Full-stack portfolio management with systems-level DB design.
+- Normalised PostgreSQL schema + stored functions
+- ACID transactions with proper isolation levels
+- Index optimisation on join-heavy queries
+- Role-based access: Users / Admins / Advisors
+- bcrypt auth + Flask REST API
+
+`Flask` `PostgreSQL` `JavaScript` `bcrypt`
 
 </td>
 </tr>
@@ -225,25 +119,135 @@ class ParvPatel:
 
 ---
 
-## 📫 Let's Connect!
+### Academic Engineering
+
+> Implemented foundational ML and distributed systems algorithms as part of academic engineering work at IIT Palakkad.
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+**Machine Learning**
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Parvptl/Introduction_to_Machine_Learning)
+
+Regression · Classification
+Clustering · PCA · SVM
+Ensemble Methods
+Feature Engineering
+
+</td>
+<td width="25%" align="center">
+
+**Artificial Intelligence**
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Parvptl/Introduction_to_Artificial_Intelligence)
+
+BFS · DFS · A*
+Minimax · Alpha-Beta
+SAT Solver (Sudoku)
+Constraint Satisfaction
+
+</td>
+<td width="25%" align="center">
+
+**Deep Learning & NLP**
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Parvptl/Introduction_to_Deep_Learning)
+
+FNN · CNN · RNN
+LSTM · GRU · GANs
+Transformers · Word2Vec
+BERT · Attention
+
+</td>
+<td width="25%" align="center">
+
+**Data Analytics**
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Parvptl/Data_Analytics)
+
+ANOVA · Hypothesis Testing
+Clustering · Regression
+Dimensionality Reduction
+EDA · Outlier Detection
+
+</td>
+</tr>
+</table>
+
+---
+
+### What I Implement From Scratch
+
+I don't just call `model.fit()`. Here's what I build at the algorithmic level:
+
+```
+Graph Algorithms          Network flow (3 variants), residual graphs, min-cut duality
+Persistent Homology       Topological losses integrated into adversarial training
+Recursive Clustering      Hierarchical K-Means with adaptive top-k routing
+Dimensionality Reduction  PCA from eigenvalue decomposition, variance-explained selection
+Multi-Loss Optimisation   Adversarial + topological + statistical similarity objectives
+Distributed Systems       MapReduce internals, Spark RDD transformations, HDFS
+Search & Adversarial      A*, BFS, DFS, Minimax, alpha-beta pruning, CSP via SAT
+Association Mining        Apriori with configurable support/confidence/lift thresholds
+```
+
+---
+
+### Technical Stack
+
+```python
+class ParvPatel:
+    
+    languages   = ["Python", "Java", "C", "C++", "R", "SQL", "JavaScript"]
+    
+    ml_stack    = ["Scikit-Learn", "PyTorch", "Statsmodels", "MLxtend",
+                   "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"]
+    
+    ml_methods  = ["GANs", "CNNs", "RNNs", "LSTM/GRU", "Transformers",
+                   "PCA", "SVM", "Ensemble Methods", "HMMs",
+                   "Feature Engineering", "Hyperparameter Optimisation"]
+    
+    systems     = ["Hadoop", "MapReduce", "HDFS", "Spark/PySpark",
+                   "PostgreSQL", "Flask", "Streamlit", "Git"]
+    
+    dsa         = ["Graph Algorithms", "Dynamic Programming", "Trees",
+                   "Network Flow", "Complexity Analysis", "Hashing"]
+    
+    focus       = "Research-grade modeling meets production-grade implementation"
+```
+
+---
+
+### Engineering Philosophy
+
+```
+01  Every abstraction I use is one I can rebuild from scratch.
+02  Complexity analysis before implementation. Always.
+03  The distance between theory and code is where real engineering happens.
+04  Research informs systems thinking. Production sharpens research intuition.
+```
+
+---
 
 <div align="center">
 
-### **I'm always open to collaborating on interesting projects!**
+<img src="https://github-readme-stats.vercel.app/api?username=Parvptl&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e2e8f0&text_color=8b949e&icon_color=7c3aed" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvptl&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=8b949e" height="165"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvptl/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parvptl)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parv4careers@gmail.com)
+<br/><br/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvptl&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1a2e&ring=7c3aed&fire=e2e8f0&currStreakLabel=e2e8f0&sideLabels=8b949e&dates=6e7681" height="165"/>
 
-### 💡 Fun Fact
-*Even data can be dramatic — and thankfully, so can I* 😄
+<br/><br/>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Parvptl&color=blueviolet&style=for-the-badge)
+**IIT Palakkad · B.Tech Data Science · 2023–2027**
 
-**⭐ If you like my work, consider starring my repositories!**
+*Building systems that think algorithmically.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%"/>
 
 </div>
