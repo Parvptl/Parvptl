@@ -28,8 +28,6 @@ B.Tech in Data Science at **IIT Palakkad** (2023–2027). I work at the intersec
 
 **4th National Rank** at Inter IIT Tech Meet 14.0 — built a topology-preserving synthetic data generation pipeline (TopoGAN) and hierarchical semantic retrieval system for Genuity IO's algorithmic optimisation challenge.
 
-Currently an **AI/ML Developer Intern at Easy Algo**, developing quantitative trading models for financial market prediction.
-
 ---
 
 ### Flagship — Inter IIT Tech Meet 14.0 `4th Rank`
