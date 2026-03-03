@@ -70,7 +70,7 @@ End-to-end ML analytics pipeline on 100K+ transactions.
 
 #### Max-Flow Hub — Network Flow Visualizer
 [![Live](https://img.shields.io/badge/Live_Demo-0f3460?style=flat-square&logo=googlechrome&logoColor=white)](https://flow.parvpatel.me/)
-
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Parvptl/maxflow_visualizer/)
 Three algorithms implemented **from scratch**:
 - **Ford-Fulkerson** — DFS augmenting paths + residual graph
 - **Edmonds-Karp** — BFS-based, O(VE²) guarantee
