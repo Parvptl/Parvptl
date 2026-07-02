@@ -85,7 +85,7 @@ I build machine learning systems the way I'd build any other backend service —
 ### 💼 Experience Highlights
 
 * **Accenture** | *Advanced Engineering Hub Intern* (May 2026 – Jul 2026)
-  * Contributed to explainable AI capabilities for enterprise Identity & Access Management (IAM) during the Allianz EMEA engagement.
+  * Contributed to developing explainable AI capabilities for enterprise Identity & Access Management (IAM) during the Allianz EMEA engagement.
 * **IIT Palakkad** | *Project Intern* (Apr 2026 – Present)
   * Designing and developing the backend and React Native mobile application for a real-time clinician vitals monitoring platform.
 
@@ -99,6 +99,11 @@ I build machine learning systems the way I'd build any other backend service —
   * Participated in advanced curricula covering Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), and practical applications of modern AI systems.
 * **Inter IIT Tech Meet 14.0** | *4th Rank Nationally*
   * Achieved 4th Rank in the national Algorithmic Optimization Challenge representing IIT Palakkad. Built **TopoGAN**—a persistent homology-regularized generative model for topology-preserving tabular data.
+
+---
+
+### 👥 Leadership Experience
+
 * **The Integral Cup** | *National Logistics Convener*
   * Directed and coordinated end-to-end logistics for a major academic competition spanning 26+ campuses across IITs, BITS, IIITs, and IISc.
 
