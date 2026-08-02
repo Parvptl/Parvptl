@@ -1,153 +1,129 @@
-# Parv Patel
-
-**ML Systems & Software Engineer**  
-*B.Tech Data Science, IIT Palakkad • Amazon ML Summer School '26 • National Rank 4, Inter IIT Tech Meet 14.0*
-
----
-
-> **Engineering Philosophy:** *The model is rarely the fragile part. Validate at the edges, decouple things that change at different rates, and make failure boring — a service that returns a clean error is infinitely better than one that crashes silently.*
-
----
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-parvpatel.me-8b5cf6?style=flat-square&logo=google-chrome&logoColor=white)](https://parvpatel.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-parvptl-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/parvptl/)
-[![Email](https://img.shields.io/badge/Email-parv4careers%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:parv4careers@gmail.com)
-
----
-
-### 🔬 Professional Introduction
-
-I build machine learning systems the way I'd build any other backend service — with validation, graceful failure handling, and an assumption that things will go wrong under real load. Most of my work lives at the boundary between a trained model and the API that has to serve it: a deepfake detection service that survives concurrent requests and corrupted checkpoints, a real-time vitals pipeline that keeps a UI smooth under a continuous high-frequency data stream, or a financial forecasting pipeline built specifically to avoid the leakage that makes backtests lie.
-
-* **B.Tech Data Science**, IIT Palakkad (Class of 2027)
-* **Amazon ML Summer School 2026** | Selected among top ~2.2% of 134,421+ applicants nationally
-* **Inter IIT Tech Meet 14.0** | 4th Rank Nationally in Algorithmic Optimization
-
----
-
-### ⚡ Current Focus
-
-* 🛡️ **Explainable AI for IAM** | Developing explainable AI capabilities for enterprise Identity & Access Management at **Accenture** (Allianz EMEA engagement).
-* 🫀 **Clinician Vitals Monitoring** | Building the backend and React Native mobile application for a real-time clinician monitoring platform at **IIT Palakkad**.
-* 🎯 **Opportunities** | Seeking full-time Machine Learning Engineer / Software Development Engineer roles for 2027.
-
----
-
-### 🛠️ Technical Expertise
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `Python` • `Java` • `TypeScript` • `JavaScript` • `SQL` • `C++` |
-| **Backend & APIs** | `FastAPI` • `REST API Design` • `Docker` • `Pydantic` • `PostgreSQL` |
-| **ML & Deep Learning** | `PyTorch` • `Transformers` • `CNNs` • `Scikit-Learn` • `XGBoost` • `LightGBM` |
-| **Mobile** | `React Native` |
-| **Foundations** | Data Structures & Algorithms • Operating Systems • Database Management |
-
----
-
-### 📁 Featured Projects
-
-#### 🛡️ [DualForensics](https://github.com/Parvptl/DualForensics)
-*Containerized Deepfake Detection Service • **AUC 0.9787***
-
-* **The Problem:** Deep learning models are only as good as the infrastructure serving them. Most crash or leak memory under production loads.
-* **The Solution:** Engineered a robust FastAPI service using PyTorch and Docker that survives checkpoint corruption, guarantees zero disk-space leaks on request failures, and maintains high availability under concurrent loads.
-* **Stack:** `Python` • `PyTorch` • `FastAPI` • `Docker`
-
----
-
-#### 🫀 [Hesor](https://github.com/Parvptl/hesor)
-*Real-Time Clinician Vitals Monitoring • **60 FPS Stable***
-
-* **The Problem:** Rendering continuous, high-frequency clinician vitals in real time often chokes the mobile UI thread, causing frames to drop.
-* **The Solution:** Developed a decoupled architecture where data ingestion buffers samples independently from screen redraw cycles, keeping the layout smooth and stable.
-* **Stack:** `React Native` • `TypeScript` • `FastAPI`
-
----
-
-#### 📈 [Financial Sentiment Forecasting](https://github.com/Parvptl/Financial-Sentiment-Forecasting)
-*Entity-Aware Temporal Sentiment Pipeline*
-
-* **The Problem:** Financial sentiment models often suffer from lookahead bias and data leakage, making backtests lie.
-* **The Solution:** Built a DeBERTa-based sentiment pipeline structured around strict temporal isolation, ensuring downstream stock return models can never access future states.
-* **Stack:** `Python` • `PyTorch` • `Transformers` • `XGBoost`
-
----
-
-#### 🕸️ [Max-Flow Hub](https://github.com/Parvptl/Max-Flow-Hub)
-*Interactive Network Flow Visualizer*
-
-* **The Work:** Implemented Ford-Fulkerson, Edmonds-Karp, and Push-Relabel network flow algorithms from scratch. Created a custom D3.js state-driven animation engine to visualize residual graph updates in real time.
-* **Stack:** `JavaScript` • `D3.js` • `Tailwind CSS`
-
----
-
-### 💼 Experience Highlights
-
-* **Accenture** | *Advanced Engineering Hub Intern* (May 2026 – Jul 2026)
-  * Contributed to developing explainable AI capabilities for enterprise Identity & Access Management (IAM) during the Allianz EMEA engagement.
-* **IIT Palakkad** | *Project Intern* (Apr 2026 – Present)
-  * Designing and developing the backend and React Native mobile application for a real-time clinician vitals monitoring platform.
-
----
-
-### 🏆 Selected Achievements
-
-* **Amazon ML Summer School 2026** | *Selected Participant*
-  * Selected among approximately **3,000 students** from **134,421+ registrations** across India (~2.2% selection rate).
-  * Qualified through a multi-stage selection process including resume screening, statement of purpose (SOP) evaluation, and online assessments.
-  * Participated in advanced curricula covering Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), and practical applications of modern AI systems.
-* **Inter IIT Tech Meet 14.0** | *4th Rank Nationally*
-  * Achieved 4th Rank in the national Algorithmic Optimization Challenge representing IIT Palakkad. Built **TopoGAN**—a persistent homology-regularized generative model for topology-preserving tabular data.
-
----
-
-### 👥 Leadership Experience
-
-* **The Integral Cup** | *National Logistics Convener*
-  * Directed and coordinated end-to-end logistics for a major academic competition spanning 26+ campuses across IITs, BITS, IIITs, and IISc.
-
----
-
-### 🔬 Research & Open Source Interests
-
-* **Research Areas:** Topology-aware generative modeling, temporal leakage prevention, and reliability as a first-class citizen in ML systems.
-* **Open Source:** I am currently focusing on building and maintaining my own primary systems. If I begin contributing to external projects, this section will track those contributions directly.
-
----
-
-### 💡 Notable Highlights
-
-* **Scale & Execution:** Managed cross-country logistics for a national academic competition involving 26+ campuses while maintaining my undergraduate studies.
-* **Applied Math:** Placed 4th nationally in a challenge judged on a complex topological generative model (TopoGAN) that most competing teams had never implemented from scratch.
-
----
-
-### 📊 GitHub Statistics
+<h1 align="center">Hi, I'm Parv</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parvptl&show_icons=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=9ca3af&bg_color=00000000&hide_border=true" alt="Parv's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvptl&layout=compact&title_color=8b5cf6&icon_color=8b5cf6&text_color=9ca3af&bg_color=00000000&hide_border=true" alt="Parv's Top Languages" width="48%" />
+  <b>ML &amp; Backend Engineer</b><br>
+  I build the parts of ML systems that don't show up in the accuracy number —<br>
+  the pipelines, the services, and the infrastructure that has to hold up under real load.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Parvptl">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvptl&theme=dark&hide_border=true&background=00000000&ring=8b5cf6&fire=8b5cf6&sideLabels=9ca3af&dates=9ca3af&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak Stats" />
-  </a>
+  <a href="https://parvpatel.me"><img src="https://img.shields.io/badge/Portfolio-parvpatel.me-0C0C0C?style=for-the-badge&logo=vercel&logoColor=D7E2EA" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/parvptl/"><img src="https://img.shields.io/badge/LinkedIn-7621B0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:parv4careers@gmail.com"><img src="https://img.shields.io/badge/Email-B600A8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/u/parv_ptl"><img src="https://img.shields.io/badge/LeetCode-BE4C00?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </p>
 
 ---
 
-### 📬 Let's Connect
+## About
 
-Open to conversations about machine learning systems, backend engineering, or anything in between. Reach out — I read everything.
+Final-year **B.Tech Data Science** student at **IIT Palakkad** (CGPA 8.34/10, graduating June 2027).
 
-* **Website:** [parvpatel.me](https://parvpatel.me)
-* **LinkedIn:** [linkedin.com/in/parvptl](https://www.linkedin.com/in/parvptl/)
-* **Email:** [parv4careers@gmail.com](mailto:parv4careers@gmail.com)
+Most of my work sits at the seam between a model and a system that has to serve it — resumable preprocessing pipelines, inference services that validate their inputs, and migrations you can prove are correct rather than assume are. I care about the failure modes as much as the metrics.
+
+**Open to full-time opportunities from 2027.**
+
+---
+
+## What I'm building now
+
+**Hesor — PPG Vital-Sign Monitoring** · *Project Intern, IIT Palakkad · Apr 2026 – Present*
+
+A clinician-facing vitals platform, built end to end:
+
+- Lifted blood-pressure classification out of a PyQt5 research app into a standalone **FastAPI** service — model loaded once at startup, every request validated with Pydantic so malformed IR/RED blocks are rejected before inference.
+- Each 5-second block resamples 500 Hz → 125 Hz, runs Chebyshev filtering and peak-onset feature extraction, and returns a three-class result with a finger-detection gate that skips blocks instead of guessing.
+- Wrote a **parity harness** that replays identical inputs through both the new service and the original implementation — so the migration was proven numerically equivalent, not assumed.
+- Built the **Expo/React Native** client streaming PPG at 500 Hz off an HC-05 sensor over Bluetooth Classic SPP via a custom Kotlin RFCOMM module, buffering in refs and flushing at 10 Hz to hold **60 FPS** on live waveform charts.
+- Implemented the signal-processing layer in TypeScript: DC removal, bandpass filtering, AMDF peak detection, and derived metrics (pulse rate, SpO₂, perfusion index, signal quality, HRV).
+
+---
+
+## Featured Projects
+
+### [DualForensics](https://github.com/Parvptl/DualForensics) — Deepfake Detection System
+`Python` `PyTorch` `OpenCV` `FastAPI` `Docker` · **AUC 0.9787**
+
+A video pipeline that turned ~7,000 raw videos into ~112,000 cropped faces, tracked by a JSON manifest so interrupted runs resume instead of reprocessing from scratch. Three-step fallback for face extraction (MTCNN → Haar cascade → center crop) so no video is silently dropped, and a 6:1 class imbalance handled with weighted sampling plus a matching weighted loss. Deployed as a Dockerized FastAPI service with upload validation, guaranteed temp-file cleanup, and a health endpoint that returns a clean 503 when weights fail to load.
+
+### [Financial Sentiment Forecasting](https://github.com/Parvptl/Financial-Sentiment-Forecasting) — Entity-Aware Transformers
+`Python` `PyTorch` `Transformers` `XGBoost` `LightGBM` · **92%+ accuracy**
+
+An end-to-end pipeline over 25K+ entity-level financial news instances. Fine-tuned DeBERTa-v3 for aspect-based sentiment, then decoupled feature extraction from modeling so the same feature set swaps across 6+ downstream models without retraining the transformer. Leakage-safe temporal aggregation using causally shifted rolling windows, with ablation studies and bootstrap significance testing.
+
+### [Max-Flow Hub](https://github.com/Parvptl/Max-Flow-Hub) — Network Flow Visualizer
+`JavaScript` `D3.js` · Ford-Fulkerson, Edmonds-Karp, and Push-Relabel implemented from scratch with step-through animation.
+
+### [NEXUS](https://github.com/Parvptl/NEXUS) — E-Commerce Analytics
+`Python` `Streamlit` `Scikit-Learn` · ML pipeline over 100K+ transactions: statistical inference, market basket analysis, customer segmentation.
+
+### [FinTrack](https://github.com/Parvptl/FinTrack) — Investment Management System
+`Flask` `PostgreSQL` · Full-stack portfolio management on a normalized schema with role-based access control and ACID-compliant transaction handling.
+
+---
+
+## Experience
+
+**Accenture** — Advanced Engineering Hub Intern · *Bengaluru · May 2026 – Jul 2026*
+
+Contributed to an enterprise **Identity & Access Management** solution, implementing explainable ML pipelines for identity risk scoring and access governance. Engineered risk-scoring features and benchmarked ensemble models (XGBoost, LightGBM) to improve classification accuracy, carrying over feature engineering and explainability techniques from prior transformer-based forecasting work.
+
+---
+
+## Achievements
+
+| | |
+|---|---|
+| **Amazon ML Summer School 2026** | Selected among 3,000 of 134,421 applicants — **top 2.2%** |
+| **Inter IIT Tech Meet 14.0** | **4th nationally** in the Genuity IO Challenge — GAN-based synthetic tabular data generator with topology-preserving losses |
+| **Flipkart GRiD 8.0** | Semi-Finalist |
+| **Ascent (Synapse) Hackathon** | Finalist — Scaler School of Technology |
+| **LeetCode** | 500+ problems solved |
+
+---
+
+## Leadership
+
+**Convener — The Integral Cup** · *Nov 2025 – Present*
+Led cross-functional teams to execute a national-level academic competition across 26+ centres (IITs, BITS, IIITs, IISc, ISI), managing logistics, vendors, and operations at scale.
+
+**Fest Coordinator — Petrichor, IIT Palakkad** · *2025 – Jan 2026*
+Led end-to-end planning and logistics for IIT Palakkad's flagship inter-college cultural festival; coordinated 30+ events and cross-functional teams.
+
+---
+
+## Tech
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**ML & Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+CNNs · Transformers · Attention Mechanisms · Ensemble Methods · Feature Engineering · Statistical Inference
+
+**Backend & Systems**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
 <p align="center">
-  <sub>Built with care to mirror the aesthetic of <a href="https://parvpatel.me">parvpatel.me</a>.</sub>
+  <b>Let's talk.</b><br>
+  I'm looking for challenging problems where rigorous engineering and ML come together.<br><br>
+  <a href="mailto:parv4careers@gmail.com">parv4careers@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/parvptl/">LinkedIn</a> ·
+  <a href="https://parvpatel.me">parvpatel.me</a>
 </p>
